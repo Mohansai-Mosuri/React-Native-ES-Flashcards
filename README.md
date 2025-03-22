@@ -34,7 +34,7 @@ The application provides a user-friendly interface for learning English-Spanish 
 
 2.  **Clone the Repository:**
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
+    git clone <https://github.com/Mohansai-Mosuri/React-Native-ES-Flashcards.git>
     cd React-Native-ES-Flashcards
     ```
 
